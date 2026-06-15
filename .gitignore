@@ -1,1 +1,1 @@
-(products_fixed.sql is a source file, no build artifacts, dependencies, or temp files in the changes)
+Nothing needs to be added to .gitignore for this change list. The only file changed is `products_fixed_clean.sql`, which is a SQL source file and should not be ignored.

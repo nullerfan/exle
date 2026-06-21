@@ -1,1 +1,35 @@
-(products_fixed_clean.sql is a source code file, so no additional ignores are needed beyond what might already exist for general SQL projects, but since there are no other artifacts mentioned, keep it empty)
+```python
+# Excel files
+*.xlsx
+*.xls
+
+# Python
+*.pyc
+__pycache__/
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Editors
+.vscode/
+.idea/
+
+# Dependencies
+.venv/
+venv/
+node_modules/
+
+# Build artifacts
+dist/
+build/
+target/
+```
